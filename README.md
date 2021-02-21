@@ -1,2 +1,2 @@
-# jbusemey
+# Quantum Cognition
 Quantum Cognition
